@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "aSe5nZchyba2Edl9BlkNO"
+uri = "file://artifacts/coffee-shop/public/images/roastery.png"
+type = "image"
+title = "roastery at dusk"
+
+[[generated]]
+id = "TcfIBqvlt9srRWwCj49M1"
+uri = "file://artifacts/coffee-shop/public/images/pouring.png"
+type = "image"
+title = "pouring espresso"
+
+[[generated]]
+id = "tuyBL6iAy-jejJHR7es0e"
+uri = "file://artifacts/coffee-shop/public/images/farm.png"
+type = "image"
+title = "coffee farm"
+
+[[generated]]
+id = "D6b6A5T8UFiPoPdN2iiDm"
+uri = "file://artifacts/coffee-shop/public/images/barista.png"
+type = "image"
+title = "barista working"
